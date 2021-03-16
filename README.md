@@ -1,5 +1,5 @@
 # Space Webflow Homepage
-This repo contains an python script that transform a webflow exported site into a valid fleek site
+This repo contains an python script that transform a Webflow exported site into a valid Fleek site, using [Space](https://space.storage/) website as an example of a Webflow-exported site!
 
 ## Requirements:
 
