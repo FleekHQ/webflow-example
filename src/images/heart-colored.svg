@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4. Icons/heart-colored</title>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#B327CD" offset="0%"></stop>
+            <stop stop-color="#EF4DCF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4.-Icons/heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16.5,4 C13.605,4 12,6.09 12,6.09 C12,6.09 10.395,4 7.5,4 C4.462,4 2,6.462 2,9.5 C2,14.185 9.256,19.959 11.406,21.567 C11.76,21.832 12.239,21.832 12.593,21.567 C14.744,19.959 22,14.185 22,9.5 C22,6.462 19.538,4 16.5,4 Z" id="icon" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

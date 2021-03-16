@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4. Icons/star-colored</title>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF7114" offset="0%"></stop>
+            <stop stop-color="#FFB234" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4.-Icons/star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,18.091 L16.969,21.09 C17.753,21.563 18.72,20.86 18.512,19.969 L17.193,14.316 L21.584,10.512 C22.276,9.913 21.906,8.776 20.994,8.699 L15.214,8.209 L12.953,2.874 C12.596,2.033 11.404,2.033 11.047,2.874 L8.786,8.209 L3.006,8.699 C2.094,8.776 1.724,9.913 2.416,10.512 L6.807,14.316 L5.488,19.969 C5.28,20.86 6.247,21.563 7.031,21.09 L12,18.091 Z" id="icon" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

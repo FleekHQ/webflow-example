@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="316.311" height="460.8" viewBox="0 0 316.311 460.8">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="1" y2="2.758" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffc2"/>
+      <stop offset="1" stop-color="#00533f"/>
+    </linearGradient>
+  </defs>
+  <path id="lock_1_" data-name="lock (1)" d="M358.446,198.6V140.746C358.446,63.138,295.308,0,217.7,0S76.953,63.138,76.953,140.746v57.311C68.2,201.4,59.544,208.928,59.544,223.849v78.793C59.544,389.85,130.493,460.8,217.7,460.8s158.155-70.95,158.155-158.157V223.849C375.856,209.691,367.41,202.186,358.446,198.6ZM247.76,367.908a3.883,3.883,0,0,1-3.953,4.769H192.188a3.883,3.883,0,0,1-3.953-4.769l8.267-43.817a31.473,31.473,0,1,1,42.9-.48Zm62.154-172.114H125.485V140.746a92.215,92.215,0,0,1,184.43,0Z" transform="translate(-59.545)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "build": {
+    "image": "python:3.8-alpine",
+    "command": "python build.py",
+    "publicDir": "dist"
+  }
+}
