@@ -54,91 +54,49 @@
       "filepath": "developers.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
-      "apply_file_links_replacements": true,
-      "inserts": [
-        {
-          "text": "\n\t<script src=\"../js/check-user.js\"></script>",
-          "target": "<script src=\"js/webflow.js\" type=\"text/javascript\"></script>"
-        }
-      ]
+      "apply_file_links_replacements": true
     },
     {
       "name": "about",
       "filepath": "about.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
-      "apply_file_links_replacements": true,
-      "inserts": [
-        {
-          "text": "\n\t<script src=\"../js/check-user.js\"></script>",
-          "target": "<script src=\"js/webflow.js\" type=\"text/javascript\"></script>"
-        }
-      ]
+      "apply_file_links_replacements": true
     },
     {
       "name": "faq",
       "filepath": "faq.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
-      "apply_file_links_replacements": true,
-      "inserts": [
-        {
-          "text": "\n\t<script src=\"../js/check-user.js\"></script>",
-          "target": "<script src=\"js/webflow.js\" type=\"text/javascript\"></script>"
-        }
-      ]
+      "apply_file_links_replacements": true
     },
     {
       "name": "index",
       "filepath": "index.html",
       "move_to_subfolder": false,
       "apply_links_replacements": true,
-      "apply_file_links_replacements": false,
-      "inserts": [
-        {
-          "text": "\n\t<script src=\"js/redirect-user.js\"></script>",
-          "target": "<meta content=\"Webflow\" name=\"generator\">"
-        }
-      ]
+      "apply_file_links_replacements": false
     },
     {
       "name": "pricing",
       "filepath": "pricing.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
-      "apply_file_links_replacements": true,
-      "inserts": [
-        {
-          "text": "\n\t<script src=\"../js/check-user.js\"></script>",
-          "target": "<script src=\"js/webflow.js\" type=\"text/javascript\"></script>"
-        }
-      ]
+      "apply_file_links_replacements": true
     },
     {
       "name": "privacy-policy",
       "filepath": "privacy-policy.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
-      "apply_file_links_replacements": true,
-      "inserts": [
-        {
-          "text": "\n\t<script src=\"../js/check-user.js\"></script>",
-          "target": "<script src=\"js/webflow.js\" type=\"text/javascript\"></script>"
-        }
-      ]
+      "apply_file_links_replacements": true
     },
     {
       "name": "terms-of-service",
       "filepath": "terms-of-service.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
-      "apply_file_links_replacements": true,
-      "inserts": [
-        {
-          "text": "\n\t<script src=\"../js/check-user.js\"></script>",
-          "target": "<script src=\"js/webflow.js\" type=\"text/javascript\"></script>"
-        }
-      ]
+      "apply_file_links_replacements": true
     }
   ]
 }
